@@ -1,4 +1,9 @@
-# lab-flask
+# lab-flask - Simple Calculator app
+
+Flask_app - Simple Calculator App
+Simple apps created by using Python Flask framework. 
+Flask is used to create APIs (REST) which are protocols running on HTTP and hence they are Language independent and platform independent.
+
 
 <!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
 
